@@ -88,7 +88,7 @@
   <string name="BCH.txHashHeader">BCHのトランザクションID</string>
   <!-- Approve button label -->
   <string name="BitID.approve">承認する</string>
-  <!-- <sitename> is requesting authentication using your bitcoin wallet -->
+  <!-- <sitename> is requesting authentication using your vertcoin wallet -->
   <string name="BitID.authenticationRequest">%1$sがビットコインウォレットを使っての認証を求めています</string>
   <!-- Deny button label -->
   <string name="BitID.deny">拒否する</string>
@@ -140,8 +140,8 @@
   <string name="ConfirmPaperPhrase.label">すべてが正しく書き留められていることを確認するため、紙の鍵に記入した下記のフレーズを入力してください。</string>
   <!-- Word label eg. Word #1, Word #2 -->
   <string name="ConfirmPaperPhrase.word">フレーズ #%1$s</string>
-  <!-- Bitcoin denomination picker label -->
-  <string name="DefaultCurrency.bitcoinLabel">ビットコインの表示単位</string>
+  <!-- Vertcoin denomination picker label -->
+  <string name="DefaultCurrency.vertcoinLabel">ビットコインの表示単位</string>
   <!-- Exchange rate label -->
   <string name="DefaultCurrency.rateLabel">為替レート</string>
   <!-- Email unavailable alert title -->
@@ -234,7 +234,7 @@
   <string name="ManageWallet.textFeildLabel">ウォレットの名前</string>
   <!-- Manage wallet modal title -->
   <string name="ManageWallet.title">ウォレットを管理</string>
-  <!-- Buy bitcoin title -->
+  <!-- Buy vertcoin title -->
   <string name="MenuButton.buy">ビットコインを購入</string>
   <!-- Menu button title -->
   <string name="MenuButton.lock">ウォレットにロックを設定する</string>
@@ -368,7 +368,7 @@
   <string name="RecoverWallet.subheader_reset_pin">PINコードをリセットするには、紙の鍵の中からこのフレーズを下記ボックスの中に入力してください。</string>
   <!-- No amount entered error message. -->
   <string name="RequestAnAmount.noAmount">初めに数量を入力してください。</string>
-  <!-- Request a specific amount of bitcoin -->
+  <!-- Request a specific amount of vertcoin -->
   <string name="RequestAnAmount.title">金額のリクエスト</string>
   <!-- Alert action button label -->
   <string name="ReScan.alertAction">同期</string>
@@ -392,7 +392,7 @@
   <string name="ReScan.subheader1">予定時刻</string>
   <!-- Subheader label -->
   <string name="ReScan.subheader2">いつ同期しますか?</string>
-  <!-- Scan bitcoin address camera flash toggle -->
+  <!-- Scan vertcoin address camera flash toggle -->
   <string name="Scanner.flashButtonLabel">カメラのフラッシュ</string>
   <!-- Complete filter label -->
   <string name="Search.complete">完了</string>

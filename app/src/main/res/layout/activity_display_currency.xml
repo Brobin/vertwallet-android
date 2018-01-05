@@ -43,7 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="32dp"
         android:layout_marginTop="16dp"
-        android:text="@string/DefaultCurrency.bitcoinLabel"
+        android:text="@string/DefaultCurrency.vertcoinLabel"
         android:textColor="@color/light_gray"
         android:textSize="@dimen/sub_header"
         app:customTFont="CircularPro-Bold.otf"

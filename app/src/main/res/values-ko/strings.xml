@@ -88,7 +88,7 @@
   <string name="BCH.txHashHeader">BCH Transaction ID</string>
   <!-- Approve button label -->
   <string name="BitID.approve">승인</string>
-  <!-- <sitename> is requesting authentication using your bitcoin wallet -->
+  <!-- <sitename> is requesting authentication using your vertcoin wallet -->
   <string name="BitID.authenticationRequest">%1$s(이)가 귀하의 비트코인 월렛 이용에 대한 인증을 요청하고 있습니다.</string>
   <!-- Deny button label -->
   <string name="BitID.deny">거부</string>
@@ -140,8 +140,8 @@
   <string name="ConfirmPaperPhrase.label">모든 것이 정확하게 적혀 있는지 확인하기 위해, 귀하의 종이 열쇠로부터 다음의 단어들을 입력해 주세요.</string>
   <!-- Word label eg. Word #1, Word #2 -->
   <string name="ConfirmPaperPhrase.word">단어 #%1$s</string>
-  <!-- Bitcoin denomination picker label -->
-  <string name="DefaultCurrency.bitcoinLabel">Bitcoin Display Unit</string>
+  <!-- Vertcoin denomination picker label -->
+  <string name="DefaultCurrency.vertcoinLabel">Vertcoin Display Unit</string>
   <!-- Exchange rate label -->
   <string name="DefaultCurrency.rateLabel">환율</string>
   <!-- Email unavailable alert title -->
@@ -234,7 +234,7 @@
   <string name="ManageWallet.textFeildLabel">지갑 이름</string>
   <!-- Manage wallet modal title -->
   <string name="ManageWallet.title">지갑 관리</string>
-  <!-- Buy bitcoin title -->
+  <!-- Buy vertcoin title -->
   <string name="MenuButton.buy">비트코인 구매</string>
   <!-- Menu button title -->
   <string name="MenuButton.lock">지갑 잠그기</string>
@@ -368,7 +368,7 @@
   <string name="RecoverWallet.subheader_reset_pin">PIN을 재설정하려면, 페이퍼 키의 단어들을 아래 상자에 입력해 주세요.</string>
   <!-- No amount entered error message. -->
   <string name="RequestAnAmount.noAmount">먼저 금액을 입력해 주세요.</string>
-  <!-- Request a specific amount of bitcoin -->
+  <!-- Request a specific amount of vertcoin -->
   <string name="RequestAnAmount.title">금액 요청</string>
   <!-- Alert action button label -->
   <string name="ReScan.alertAction">동기화</string>
@@ -392,7 +392,7 @@
   <string name="ReScan.subheader1">예상 시간</string>
   <!-- Subheader label -->
   <string name="ReScan.subheader2">동기화는 언제 해야 합니까?</string>
-  <!-- Scan bitcoin address camera flash toggle -->
+  <!-- Scan vertcoin address camera flash toggle -->
   <string name="Scanner.flashButtonLabel">카메라 플래시</string>
   <!-- Complete filter label -->
   <string name="Search.complete">완료</string>
@@ -635,7 +635,7 @@
   <!-- "Sent [$5] to [address]" => This is the "to [address]" part. -->
   <string name="TransactionDetails.to">%1$s에게</string>
   <!-- Transaction ID header -->
-  <string name="TransactionDetails.txHashHeader">Bitcoin Transaction ID</string>
+  <string name="TransactionDetails.txHashHeader">Vertcoin Transaction ID</string>
   <!-- (this transaction was) Received at this address: -->
   <string name="TransactionDirection.address">이 주소에서 받음</string>
   <!-- (this transaction was) Sent to this address: -->

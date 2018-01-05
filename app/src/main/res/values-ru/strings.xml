@@ -88,7 +88,7 @@
   <string name="BCH.txHashHeader">Идентификатор транзакции BCH</string>
   <!-- Approve button label -->
   <string name="BitID.approve">Одобрить</string>
-  <!-- <sitename> is requesting authentication using your bitcoin wallet -->
+  <!-- <sitename> is requesting authentication using your vertcoin wallet -->
   <string name="BitID.authenticationRequest">%1$s запрашивает аутентификацию, используя ваш биткойн-кошелек</string>
   <!-- Deny button label -->
   <string name="BitID.deny">Отказаться</string>
@@ -140,8 +140,8 @@
   <string name="ConfirmPaperPhrase.label">Чтобы убедиться, что всё записано корректно, пожалуйста, введите следующие слова с вашего бумажного ключа.</string>
   <!-- Word label eg. Word #1, Word #2 -->
   <string name="ConfirmPaperPhrase.word">Слово #%1$s</string>
-  <!-- Bitcoin denomination picker label -->
-  <string name="DefaultCurrency.bitcoinLabel">Единица отображения биткойна</string>
+  <!-- Vertcoin denomination picker label -->
+  <string name="DefaultCurrency.vertcoinLabel">Единица отображения биткойна</string>
   <!-- Exchange rate label -->
   <string name="DefaultCurrency.rateLabel">Обменный курс</string>
   <!-- Email unavailable alert title -->
@@ -234,8 +234,8 @@
   <string name="ManageWallet.textFeildLabel">Название кошелька</string>
   <!-- Manage wallet modal title -->
   <string name="ManageWallet.title">Управление кошельком</string>
-  <!-- Buy bitcoin title -->
-  <string name="MenuButton.buy">Купить Bitcoin</string>
+  <!-- Buy vertcoin title -->
+  <string name="MenuButton.buy">Купить Vertcoin</string>
   <!-- Menu button title -->
   <string name="MenuButton.lock">Заблокировать кошелек</string>
   <!-- Menu button title -->
@@ -368,7 +368,7 @@
   <string name="RecoverWallet.subheader_reset_pin">Для сброса PIN-кода введите слова из вашего бумажного ключа в расположенные ниже поля.</string>
   <!-- No amount entered error message. -->
   <string name="RequestAnAmount.noAmount">Сначала введите сумму.</string>
-  <!-- Request a specific amount of bitcoin -->
+  <!-- Request a specific amount of vertcoin -->
   <string name="RequestAnAmount.title">Запросить сумму</string>
   <!-- Alert action button label -->
   <string name="ReScan.alertAction">Синхронизация</string>
@@ -392,7 +392,7 @@
   <string name="ReScan.subheader1">Примерное время</string>
   <!-- Subheader label -->
   <string name="ReScan.subheader2">Когда синхронизировать?</string>
-  <!-- Scan bitcoin address camera flash toggle -->
+  <!-- Scan vertcoin address camera flash toggle -->
   <string name="Scanner.flashButtonLabel">Вспышка камеры</string>
   <!-- Complete filter label -->
   <string name="Search.complete">выполнено</string>

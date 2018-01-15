@@ -141,7 +141,7 @@
   <!-- Word label eg. Word #1, Word #2 -->
   <string name="ConfirmPaperPhrase.word">Wort #%1$s</string>
   <!-- Vertcoin denomination picker label -->
-  <string name="DefaultCurrency.vertcoinLabel">Vertcoin-Anzeigeeinheit</string>
+  <string name="DefaultCurrency.bitcoinLabel">Vertcoin-Anzeigeeinheit</string>
   <!-- Exchange rate label -->
   <string name="DefaultCurrency.rateLabel">Wechselkurs</string>
   <!-- Email unavailable alert title -->
@@ -663,7 +663,7 @@
   <!-- Wallet unlocked message -->
   <string name="UnlockScreen.unlocked">Wallet entsperrt</string>
   <!-- Update PIN caption text -->
-  <string name="UpdatePin.caption">Merke dir diese PIN. Falls du sie vergisst, kannst du nicht mehr auf deine Vertcoins zugreifen.</string>
+  <string name="UpdatePin.caption">Merke dir diese PIN. Falls du sie vergisst, kannst du nicht mehr auf deine Vertcoin zugreifen.</string>
   <!-- PIN creation info. -->
   <string name="UpdatePin.createInstruction">Deine PIN wird verwendet, um dein Bread zu entsperren und Geld zu versenden.</string>
   <!-- Update PIN title -->

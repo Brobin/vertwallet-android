@@ -141,7 +141,7 @@
   <!-- Word label eg. Word #1, Word #2 -->
   <string name="ConfirmPaperPhrase.word">Woord #%1$s</string>
   <!-- Vertcoin denomination picker label -->
-  <string name="DefaultCurrency.vertcoinLabel">Vertcoin-eenheid</string>
+  <string name="DefaultCurrency.bitcoinLabel">Vertcoin-eenheid</string>
   <!-- Exchange rate label -->
   <string name="DefaultCurrency.rateLabel">Wisselkoers</string>
   <!-- Email unavailable alert title -->
